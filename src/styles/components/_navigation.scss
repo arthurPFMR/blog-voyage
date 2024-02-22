@@ -1,0 +1,13 @@
+.navigation {
+    padding: 3% 1% 1% 1%;
+    ul {
+        display: flex;
+        justify-content: space-between;
+        font-weight: bold;
+        font-size: 1.2vh;
+
+        li {
+            cursor: pointer;
+        }
+    }
+}
